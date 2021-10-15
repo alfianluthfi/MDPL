@@ -42,6 +42,7 @@ Tujuan dari aplikasi ini seperti halnya kegiatan pembayaran top up dan pembelian
 
 
 3.2. Output
+
 Sistem yang akan kita bangun adalah situs belanja daring yang bergerak di bidang Game Online/Penyedia Jasa pelanggan untuk  transaksi produk virtual seperti item, akun, dan mata uang permainan video game serta berbagai jenis voucher. Nah untuk membuat aplikasi ini kita menemukan beberapa masalah, antara lain sebagai berikut:
 1.	Dengan apa kita membangun system ini?
 2.	Metode system apa yang akan dipilih untuk membangunnya?
