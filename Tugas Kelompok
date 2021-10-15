@@ -46,22 +46,53 @@ Tujuan dari aplikasi ini seperti halnya kegiatan pembayaran top up dan pembelian
 
 
 
-Output:
-
+3.2. Output
 Sistem yang akan kita bangun adalah situs belanja daring yang bergerak di bidang Game Online/Penyedia Jasa pelanggan untuk  transaksi produk virtual seperti item, akun, dan mata uang permainan video game serta berbagai jenis voucher. Nah untuk membuat aplikasi ini kita menemukan beberapa masalah, antara lain sebagai berikut:
-    1.	Dengan apa kita membangun system ini?
-    2.	Metode system apa yang akan dipilih untuk membangunnya?
-    3.	Berapa lama waktu yang dibutukan untuk mendesain hingga selesai dalam membangun system / aplikasi ini?
-    4.	Bagaimana system ini dapat memberikan jaminan keamanan terhadap user?
-    5.	Apakah system ini ramah untuk anak anak?
-    6.	Apakah tampilan bisa memudahkan user?
+1.	Dengan apa kita membangun system ini?
+2.	Metode system apa yang akan dipilih untuk membangunnya?
+3.	Berapa lama waktu yang dibutukan untuk mendesain hingga selesai dalam membangun system / aplikasi ini?
+4.	Bagaimana system ini dapat memberikan jaminan keamanan terhadap user?
+5.	Apakah system ini ramah untuk anak anak?
+6.	Apakah tampilan bisa memudahkan user?
 Untuk menyelesaikan permasalahan tersebut kita masih membutukan sebuah analisis tentang bagaimana memenuhi kebutuhan si pembuat dan pemakai/user. Caranya dengan point point berikut:
-    1.	Menggunakan tools seperti VS CODE, dan Bahasa Pemrograman yang dipilih.
-    2.	Menggunakan metode waterfall dalam pembuatanya.
-    3.	Menentukan waktu kurang lebih 2 bulan untuk membuat system sampai siap pakai.
-    4.	Membuat system keamanan data menggunakan beberapa teknologi pemrograman.
-    5.	Dalam membuatnya kita berusaha supaya system kita bisa ramah untuk anak anak dalam segi Kegunaan/ User Experience.
-    6.	Membuat tampilan yang User Friendly.
+1.	Menggunakan tools seperti VS CODE, dan Bahasa Pemrograman yang dipilih.
+2.	Menggunakan metode waterfall dalam pembuatanya.
+3.	Menentukan waktu kurang lebih 2 bulan untuk membuat system sampai siap pakai.
+4.	Membuat system keamanan data menggunakan beberapa teknologi pemrograman.
+5.	Dalam membuatnya kita berusaha supaya system kita bisa ramah untuk anak anak dalam segi Kegunaan/ User Experience.
+6.	Membuat tampilan yang User Friendly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.4. Alat Bantu Analisis Sistem
+Alat Bantu Analisis Dan Perancangan Di dalam pendekata nsistem, penulis menggunakan alat bantu dalam metode analisis dan perancangan terstruktur, yang menghendaki adanya gambaran terhadap keseluruhan sistem menggunakan alat bantu seperti, Flow map maupun Data Flow Diagram (DFD), penggunaan ERD (Entity Relationship Diagram), proses normalisasi serta alat bantu pendekatan sistem yang lain. Berikut dijelaskan beberapa alat bantu tersebut :
+
+1.	Flow Map
+Bagan alir Flow map menunjukkan arus dari pekerjaan secara keseluruhan dari sistem termasuk arus laporan dan formulir beserta tembusan-tembusannya. Bagan alir ini digunakan terutama untuk alat bantu komunikasi dan untuk dokumentasi. Flow map ini menjelaskan urut-urutan dari prosedur-prosedur yang ada di dalam sistem. Bagan alir sistem menunjukkan apa yang dikerjakan di sistem.
+2.	Diagram Kontek
+Diagram konteks adalah sebuah alat struktur analisis. Pendekatan terstruktur ini mencoba untuk menggambarkan sistem secara garis besar atau secara sederhana. Diagram Kontek adalah kasus khusus dari data alir diagram yang berfungsi memetakan model lingkungan yang refresentasikan dengan lingkungan tunggal yang mewakili keseluruhan sistem.
+3.	Data Flow Diagram
+Data Flow Diagram (DFD) adalah sebuah teknik grafis yang menggambarkan aliran informasi dan transformasi yang diaplikasikan pada saat data bergerak dari input menjadi output. DFD merupakan diagram yang menyatakan notasi-notasi untuk menggambarkan aliran data. Sebuah DFD menggambarkan aliran informasi tanpa representasi logika prosedural yang eksplisit yang dimana data tersebut mengalir atau akan disimpan.
+
+Data Flow Diagram (DFD) sering digambarkan untuk menjelaskan suatu sistem yang telah ada atau sistem baru yang akan dikembangkan secara logika tanpa memperhatikan lingkungan fisik dimana data tersebut akan disimpan. DFD merupakan alat yang digunakan pada metodologi pengembangan sistem yang terstruktur (structured analysis and design). DFD merupakan alat yang cukup popular sekarang ini karena dapat menggambarkan arus data di dalam sistem secara terstruktur dan jelas. Lebih lanjut DFD juga merupakan dokumentasi dari sistem yang baik.
+
+DFD level 0 disebutjuga diagram konteks yang mempresentasikan seluruh elemen sistem sebagai lingkaran tunggal dengan data input / output ditunjukan oleh anak panah yang masuk dan keluar secara berurutan.
+DFD level 1 merupakan partisidari level 0 untuk mengungkapkan secara detail fungsi-fungsi yang ada dalam DFD level 0 atau diagram konteks. DFD juga merupakan dokumentasi dari sistem yang baik.
+
+
+4.	Kamus Data
+Kamus Data (KD) atau data dictionary atau disebut juga dengan istilah sistem data dictionary adalah kata log fakta tentang data dan kebutuhan-kebutuhan informasi dari suatu sistem informasi. Dengan menggunakan kamus data, analis sistem dapat mendefinisikan data yang mengalir di sistem dengan lengkap, kamus data dibuat pada tahapan analisis sistem dan digunakan pada tahap analisis maupun tahap perancangan sistem.
 
 
 
