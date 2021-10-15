@@ -60,6 +60,38 @@ Untuk menyelesaikan permasalahan tersebut kita masih membutukan sebuah analisis 
 
 
 
+3.4. Alat Bantu Analisis Sistem
+
+  Alat Bantu Analisis Dan Perancangan Di dalam pendekata nsistem, penulis menggunakan alat bantu dalam metode analisis dan perancangan terstruktur, yang menghendaki adanya gambaran terhadap keseluruhan sistem menggunakan alat bantu seperti, Flow map maupun Data Flow Diagram (DFD), penggunaan ERD (Entity Relationship Diagram), proses normalisasi serta alat bantu pendekatan sistem yang lain. Berikut dijelaskan beberapa alat bantu tersebut :
+________________________________________
+  1.	Flow Map
+  Bagan alir Flow map menunjukkan arus dari pekerjaan secara keseluruhan dari sistem termasuk arus laporan dan formulir beserta tembusan-tembusannya. Bagan alir ini digunakan terutama untuk alat bantu komunikasi dan untuk dokumentasi. Flow map ini menjelaskan urut-urutan dari prosedur-prosedur yang ada di dalam sistem. Bagan alir sistem menunjukkan apa yang dikerjakan di sistem.
+
+  2.	Diagram Kontek
+  Diagram konteks adalah sebuah alat struktur analisis. Pendekatan terstruktur ini mencoba untuk menggambarkan sistem secara garis besar atau secara sederhana. Diagram Kontek adalah kasus khusus dari data alir diagram yang berfungsi memetakan model lingkungan yang refresentasikan dengan lingkungan tunggal yang mewakili keseluruhan sistem.
+
+  3.	Data Flow Diagram
+  Data Flow Diagram (DFD) adalah sebuah teknik grafis yang menggambarkan aliran informasi dan transformasi yang diaplikasikan pada saat data bergerak dari input menjadi output. DFD merupakan diagram yang menyatakan notasi-notasi untuk menggambarkan aliran data. Sebuah DFD menggambarkan aliran informasi tanpa representasi logika prosedural yang eksplisit yang dimana data tersebut mengalir atau akan disimpan.
+
+  Data Flow Diagram (DFD) sering digambarkan untuk menjelaskan suatu sistem yang telah ada atau sistem baru yang akan dikembangkan secara logika tanpa memperhatikan lingkungan fisik dimana data tersebut akan disimpan. DFD merupakan alat yang digunakan pada metodologi pengembangan sistem yang terstruktur (structured analysis and design). DFD merupakan alat yang cukup popular sekarang ini karena dapat menggambarkan arus data di dalam sistem secara terstruktur dan jelas. Lebih lanjut DFD juga merupakan dokumentasi dari sistem yang baik.
+
+  DFD level 0 disebutjuga diagram konteks yang mempresentasikan seluruh elemen sistem sebagai lingkaran tunggal dengan data input / output ditunjukan oleh anak panah yang masuk dan keluar secara berurutan.
+  DFD level 1 merupakan partisidari level 0 untuk mengungkapkan secara detail fungsi-fungsi yang ada dalam DFD level 0 atau diagram konteks. DFD juga merupakan dokumentasi dari sistem yang baik.
+
+
+  4.	Kamus Data
+  Kamus Data (KD) atau data dictionary atau disebut juga dengan istilah sistem data dictionary adalah kata log fakta tentang data dan kebutuhan-kebutuhan informasi dari suatu sistem informasi. Dengan menggunakan kamus data, analis sistem dapat mendefinisikan data yang mengalir di sistem dengan lengkap, kamus data dibuat pada tahapan analisis sistem dan digunakan pada tahap analisis maupun tahap perancangan sistem.
+
+
+
+3.5. Pisces
+Teori Analisis PIECES James Weatherber (1994) mengembangkan sebuah kerangka yang berguna untuk mengklasifikasikan masalah, yang disebut dengan PIECES yang tiap huruf mempunyai kategori dan maksud berbeda. PIECES merupakan singkatan dari Performance, Information, Economic, Control, Efisiensi, dan Servis. Adapun kategori PIECES 1 adalah : 
+1.	Analisis Kinerja (Performance) Kebutuhan untuk mengkoreksi atau memperbaiki performa. Performa atau kinerja di ukur dengan produksi (troughput) dalam jangka waktu tertentu (respontime) atau kinerja setiap kegiatan atau aktifitas dalam system. 
+2.	Analisis Informasi (Information) Kebutuhan untuk mengkoreksi atau memperbaiki informasi (data). Informasi yang sangat penting dalam konteks isi, timeline, akurasi dan format. Dengan informasi tersebut pihak manajemen akan merencanakan langkah-langkah selanjutnya. 
+3.	Analisis Ekonomi (Economic) Kebutuhan untuk mengkoreksi atau memperbaiki ekonomi. Mengendalikan biaya, meningkatkan keuntungan baik secara langsung maupun tidak langsung.                                                            
+4.	Analisis Kontrol (Control) Kebutuhan untuk mengkoreksi atau memperbaiki kontrol atau keamanan. Kontrol dilaksanakan untuk meningkatkan kinerja system, mendeteksi kesalahan, menjamin keamanan data, informasi dan persyaratan. 
+5.	Analisis Efisiensi (Eficiency) Kebutuhan untuk mengkoreksi atau memperbaiki efisiensi orang atau proses dan juga memaksimalkan sumber daya yang tersedia yang meliputi manusia, informasi, waktu, uang, peralatan, ruang dan proses pengolahan data. 
+6.	Analisis Pelayanan (Servises) Kebutuhan untuk mengkoreksi atau memperbaiki pelayanan. Fokus dari analisis ini pelayanan adalah pada tinjauan sejauhmana kemudahan yang diberikan oleh sistem yang dikembangkan untuk memperoleh datadata yang dibutuhkan untuk proses evaluasi kerja serta kemudahan untuk memperoleh informasi yang tersedia. Analisis sebuah sistem dengan menggunakan PIECES digunakan karena, kerangka kerja PIECES memberikan alat unggul untuk menggolongkan persyaratan sistem2 . Dengan demikian indentifikasi persyaratan sistem dapat dilakukan dengan cermat.
 
 
 
