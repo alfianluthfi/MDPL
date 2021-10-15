@@ -92,15 +92,21 @@ ________________________________________
 
 
 
-3.5. Pisces
+3.5. Pieces
 Teori Analisis PIECES James Weatherber (1994) mengembangkan sebuah kerangka yang berguna untuk mengklasifikasikan masalah, yang disebut dengan PIECES yang tiap huruf mempunyai kategori dan maksud berbeda. PIECES merupakan singkatan dari Performance, Information, Economic, Control, Efisiensi, dan Servis. Adapun kategori PIECES 1 adalah : 
-1.	Analisis Kinerja (Performance) Kebutuhan untuk mengkoreksi atau memperbaiki performa. Performa atau kinerja di ukur dengan produksi (troughput) dalam jangka waktu tertentu (respontime) atau kinerja setiap kegiatan atau aktifitas dalam system. 
-2.	Analisis Informasi (Information) Kebutuhan untuk mengkoreksi atau memperbaiki informasi (data). Informasi yang sangat penting dalam konteks isi, timeline, akurasi dan format. Dengan informasi tersebut pihak manajemen akan merencanakan langkah-langkah selanjutnya. 
-3.	Analisis Ekonomi (Economic) Kebutuhan untuk mengkoreksi atau memperbaiki ekonomi. Mengendalikan biaya, meningkatkan keuntungan baik secara langsung maupun tidak langsung.                                                            
-4.	Analisis Kontrol (Control) Kebutuhan untuk mengkoreksi atau memperbaiki kontrol atau keamanan. Kontrol dilaksanakan untuk meningkatkan kinerja system, mendeteksi kesalahan, menjamin keamanan data, informasi dan persyaratan. 
-5.	Analisis Efisiensi (Eficiency) Kebutuhan untuk mengkoreksi atau memperbaiki efisiensi orang atau proses dan juga memaksimalkan sumber daya yang tersedia yang meliputi manusia, informasi, waktu, uang, peralatan, ruang dan proses pengolahan data. 
-6.	Analisis Pelayanan (Servises) Kebutuhan untuk mengkoreksi atau memperbaiki pelayanan. Fokus dari analisis ini pelayanan adalah pada tinjauan sejauhmana kemudahan yang diberikan oleh sistem yang dikembangkan untuk memperoleh datadata yang dibutuhkan untuk proses evaluasi kerja serta kemudahan untuk memperoleh informasi yang tersedia. Analisis sebuah sistem dengan menggunakan PIECES digunakan karena, kerangka kerja PIECES memberikan alat unggul untuk menggolongkan persyaratan sistem2 . Dengan demikian indentifikasi persyaratan sistem dapat dilakukan dengan cermat.
+    1.	Analisis Kinerja (Performance) 
+    Kebutuhan untuk mengkoreksi atau memperbaiki performa. Performa atau kinerja di ukur dengan produksi (troughput) dalam jangka waktu tertentu (respontime) atau kinerja setiap kegiatan atau aktifitas dalam system. 
+    2.	Analisis Informasi (Information)
+    Kebutuhan untuk mengkoreksi atau memperbaiki informasi (data). Informasi yang sangat penting dalam konteks isi, timeline, akurasi dan format. Dengan informasi tersebut pihak manajemen akan merencanakan langkah-langkah selanjutnya. 
+    3.	Analisis Ekonomi (Economic) 
+    Kebutuhan untuk mengkoreksi atau memperbaiki ekonomi. Mengendalikan biaya, meningkatkan keuntungan baik secara langsung maupun tidak langsung.                                                            
+    4.	Analisis Kontrol (Control) 
+    Kebutuhan untuk mengkoreksi atau memperbaiki kontrol atau keamanan. Kontrol dilaksanakan untuk meningkatkan kinerja system, mendeteksi kesalahan, menjamin keamanan data, informasi dan persyaratan. 
 
+    5.	Analisis Efisiensi (Eficiency) 
+    Kebutuhan untuk mengkoreksi atau memperbaiki efisiensi orang atau proses dan juga memaksimalkan sumber daya yang tersedia yang meliputi manusia, informasi, waktu, uang, peralatan, ruang dan proses pengolahan data. 
+    6.	Analisis Pelayanan (Servises)
+    Kebutuhan untuk mengkoreksi atau memperbaiki pelayanan. Fokus dari analisis ini pelayanan adalah pada tinjauan sejauhmana kemudahan yang diberikan oleh sistem yang dikembangkan untuk memperoleh datadata yang dibutuhkan untuk proses evaluasi kerja serta kemudahan untuk memperoleh informasi yang tersedia. Analisis sebuah sistem dengan menggunakan PIECES digunakan karena, kerangka kerja PIECES memberikan alat unggul untuk menggolongkan persyaratan sistem2 . Dengan demikian indentifikasi persyaratan sistem dapat dilakukan dengan cermat.
 
 
 
