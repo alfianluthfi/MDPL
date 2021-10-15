@@ -32,7 +32,7 @@ Tujuan dari aplikasi ini seperti halnya kegiatan pembayaran top up dan pembelian
 
 
 
-Tujuan :
+3.1 Tujuan :
 
 - Aplikasi ini diharapkan agar menjadi layanan antara penjual dan pembeli agar dapat melakukan transaksi secara maksimal. 
 - Aplikasi ini dapat menarik daya tarik pembeli dimana aplikasi ini akan dilengkapi User Interface yang memungkinkan penjual maupun pembeli tertarik melakukan transaksi di aplikasi ini. 
@@ -41,37 +41,36 @@ Tujuan :
 - 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output:
-
+3.2. Output
 Sistem yang akan kita bangun adalah situs belanja daring yang bergerak di bidang Game Online/Penyedia Jasa pelanggan untuk  transaksi produk virtual seperti item, akun, dan mata uang permainan video game serta berbagai jenis voucher. Nah untuk membuat aplikasi ini kita menemukan beberapa masalah, antara lain sebagai berikut:
-    1.	Dengan apa kita membangun system ini?
-    2.	Metode system apa yang akan dipilih untuk membangunnya?
-    3.	Berapa lama waktu yang dibutukan untuk mendesain hingga selesai dalam membangun system / aplikasi ini?
-    4.	Bagaimana system ini dapat memberikan jaminan keamanan terhadap user?
-    5.	Apakah system ini ramah untuk anak anak?
-    6.	Apakah tampilan bisa memudahkan user?
+1.	Dengan apa kita membangun system ini?
+2.	Metode system apa yang akan dipilih untuk membangunnya?
+3.	Berapa lama waktu yang dibutukan untuk mendesain hingga selesai dalam membangun system / aplikasi ini?
+4.	Bagaimana system ini dapat memberikan jaminan keamanan terhadap user?
+5.	Apakah system ini ramah untuk anak anak?
+6.	Apakah tampilan bisa memudahkan user?
 Untuk menyelesaikan permasalahan tersebut kita masih membutukan sebuah analisis tentang bagaimana memenuhi kebutuhan si pembuat dan pemakai/user. Caranya dengan point point berikut:
-    1.	Menggunakan tools seperti VS CODE, dan Bahasa Pemrograman yang dipilih.
-    2.	Menggunakan metode waterfall dalam pembuatanya.
-    3.	Menentukan waktu kurang lebih 2 bulan untuk membuat system sampai siap pakai.
-    4.	Membuat system keamanan data menggunakan beberapa teknologi pemrograman.
-    5.	Dalam membuatnya kita berusaha supaya system kita bisa ramah untuk anak anak dalam segi Kegunaan/ User Experience.
-    6.	Membuat tampilan yang User Friendly.
+1.	Menggunakan tools seperti VS CODE, dan Bahasa Pemrograman yang dipilih.
+2.	Menggunakan metode waterfall dalam pembuatanya.
+3.	Menentukan waktu kurang lebih 2 bulan untuk membuat system sampai siap pakai.
+4.	Membuat system keamanan data menggunakan beberapa teknologi pemrograman.
+5.	Dalam membuatnya kita berusaha supaya system kita bisa ramah untuk anak anak dalam segi Kegunaan/ User Experience.
+6.	Membuat tampilan yang User Friendly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
